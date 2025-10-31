@@ -1,2 +1,2 @@
-1.user:amous pass:pass
-2.user:. pass:.
+amous:amous
+.:.
