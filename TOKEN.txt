@@ -1,4 +1,2 @@
-TOKEN_VVIP_001,vvip
-TOKEN_REGULER_002,standard
-NEW_ADMIN_TOKEN,vvip
-USER_VVIP_001,vvip
+1.user:amous pass:pass
+2.user:. pass:.
